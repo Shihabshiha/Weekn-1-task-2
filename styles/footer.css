@@ -1,0 +1,103 @@
+.nav-footer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 300px;
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-top: 15px;
+
+}
+
+.footer-buttons{
+  height: 150px;
+  width: 230px;
+  display: block;
+  border: none;
+  background-color: rgb(240, 236, 236);
+  font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+  font-size: 18px;
+  color: grey;
+  cursor: pointer;
+}
+
+.footer-buttons img{
+  display: block;
+  height: 30px;
+  width: 30px;
+  padding-left: 85px;
+  padding-bottom: 12px;
+}
+
+.footer-container{
+  height: 400px;
+  display: block;
+  font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+  background-color:rgb(240, 236, 236);  
+  padding-left: 100px;
+
+}
+
+.container-section{
+  display: flex;
+  padding-top: 50px;
+}
+
+.section-box{
+  display: block;
+  height: 230px;
+  width: 200px;
+  padding-left: 50px;
+}
+
+.section-discription{
+  margin-top: 25px;
+}
+
+.ul1{
+  list-style: none;
+  padding-inline-start: 0px;
+  line-height: 25px;
+  font-size: 16px;
+  font-weight: bold;
+  color: grey;
+  cursor: pointer;
+}
+
+.social-media{
+  padding-left: 1000px;
+}
+
+.social-media-icons img{
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.footer-end{
+  height: 80px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.end-section{
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 10px 20px 10px;
+}
+
+.ul2{
+  display: flex;
+  list-style: none;
+  padding-right: 10px;
+}
+
+.ul2 div{
+  margin-left: 15px;
+  font-size: 16px;
+  font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+  color: #1366d7;;
+  font-weight: bold;
+  cursor: pointer;
+}
